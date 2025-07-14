@@ -1,1 +1,1 @@
-# api-lab
+In this project, I handled errors for each API call on its own because I didn’t want the whole thing to break if just one part failed. Like, if reviews didn’t load, at least the products could still show up. I also tried using custom error types to make it easier to tell what went wrong# api-lab
